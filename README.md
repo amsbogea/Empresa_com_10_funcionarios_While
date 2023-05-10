@@ -4,6 +4,8 @@ Uma empresa possui dez funcionários com as seguintes características: código,
 
 Tabela 1
 
-![comandocontrole5.jpg](https://canvas.instructure.com/courses/4721620/files/178251068/preview)
 
-![comandocontrole5 tb2.jpg](https://canvas.instructure.com/courses/4721620/files/178251069/preview)
+
+![](file:///C:/Users/alex_/Downloads/comandocontrole5.jpg)
+
+![](file:///C:/Users/alex_/Downloads/comandocontrole5%20tb2.jpg)
