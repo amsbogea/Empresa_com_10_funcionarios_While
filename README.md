@@ -4,8 +4,14 @@ Uma empresa possui dez funcionários com as seguintes características: código,
 
 Tabela 1
 
+![image](https://github.com/amsbogea/Empresa_com_10_funcionarios_While/assets/32579231/cd06555b-a410-4892-8f1e-9259a7171cc7)
 
 
-![](file:///C:/Users/alex_/Downloads/comandocontrole5.jpg)
+![image](https://github.com/amsbogea/Empresa_com_10_funcionarios_While/assets/32579231/9769b43e-39a7-444c-98a7-c831195430b9)
 
-![](file:///C:/Users/alex_/Downloads/comandocontrole5%20tb2.jpg)
+
+
+
+
+
+
